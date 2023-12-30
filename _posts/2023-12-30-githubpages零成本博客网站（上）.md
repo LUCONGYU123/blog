@@ -27,7 +27,7 @@ step7：
 右上角有个编辑按钮，打开文件编辑器，编辑_config.yml
 为了使用minima主题，我们在_config.yml文件里添加下面的内容
 
-‘theme: minima’
+`theme: minima`
 
 （可选）您还可以添加其他配置变量，例如站名title:, 作者author:、站点描述description:
 提交修改
