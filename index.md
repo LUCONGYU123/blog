@@ -7,3 +7,5 @@ title: Everything...
 😶联系方式：Lucongyu0429@gmail.com
 
 😌Skype群：待定
+
+😆[推荐一个GPT镜像站](https://zcienq.aitianhu1.top/#/chat/)
