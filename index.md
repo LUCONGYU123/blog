@@ -13,4 +13,4 @@ title: Everything...
 
 😮[我的文件站](https://github.com/LUCONGYU123/cloud-share)
 
-🤨留言转至issues,注：要GitHub账号[链接](https://github.com/LUCONGYU123/lucongyu123.github.io/issues/new)
+🤨留言转至issues[链接](https://github.com/LUCONGYU123/lucongyu123.github.io/issues/new)
