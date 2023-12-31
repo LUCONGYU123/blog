@@ -1,10 +1,11 @@
 ---
 title: Everything...
 ---
-一切的起始之处，纵使『Everything』，却也空无一物
-
+一切的起始之处，『Everything』
 
 😶联系方式：Lucongyu0429@gmail.com
+
+🙃skype:goduseVPN-佛跳墙  live:.cid.b4e2491fd4542600
 
 😌Skype群：待定
 
