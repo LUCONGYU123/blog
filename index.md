@@ -12,3 +12,5 @@ title: Everything...
 😆[推荐一个GPT镜像站](https://zcienq.aitianhu1.top/#/chat/)
 
 😮[我的文件站](https://github.com/LUCONGYU123/cloud-share)
+
+🤨[留言转至issues](https://github.com/LUCONGYU123/lucongyu123.github.io/issues/new)
