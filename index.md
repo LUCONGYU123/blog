@@ -1,6 +1,8 @@
 ---
 title: Everything...
 banner: "/photo/home.jpeg"
+heading：Welcome
+subheading：powered by github pages
 ---
 一切的起始之处，『Everything』
 
