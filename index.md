@@ -2,7 +2,7 @@
 title: Everything...
 banner: "/photo/home.jpeg"
 heading: Welcome
-subheading: powered by github pages
+subheading: 绝望从来不是终点，放弃才是
 ---
 一切的起始之处，『Everything』
 
