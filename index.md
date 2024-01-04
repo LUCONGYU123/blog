@@ -1,5 +1,6 @@
 ---
 title: Everything...
+banner: "/photo/home.jpeg"
 ---
 一切的起始之处，『Everything』
 
