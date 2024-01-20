@@ -6,10 +6,7 @@ subheading: 绝望从来不是终点，放弃才是
 ---
 一切的起始之处，『Everything』
 
-😶联系方式：gmail：Lucongyu0429@gmail.com
-
-           skype: goduseVPN-佛跳墙
-                  live:.cid.b4e2491fd4542600
+😶联系方式：Lucongyu0429@gmail.com
 
 😌Skype群：待定
 
