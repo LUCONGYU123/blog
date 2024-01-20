@@ -1,14 +1,11 @@
 ---
 title: Everything...
-banner: "/photo/home.jpeg"
-heading: Welcome
+banner: "/photo/blog.png"
+heading: Zara的小站
 subheading: 绝望从来不是终点，放弃才是
 ---
-一切的起始之处，『Everything』
 
 😶联系方式：Lucongyu0429@gmail.com
-
-😌Skype群：待定
 
 😆[推荐一个GPT镜像站](https://zcienq.aitianhu1.top/#/chat/)
 
