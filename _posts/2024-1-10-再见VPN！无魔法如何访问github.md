@@ -16,6 +16,7 @@ win：`C:\Windows\System32\drivers\etc\hosts`
 linux/mac：`/etc/hosts`
 
 windows在资源管理器中输入这个地址并选择用记事本打开，然后追加到hosts中保存即可
+
 linux/mac使用如下命令：
 `sudo nano /etc/hosts`
 ctrl+x 保存退出
